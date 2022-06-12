@@ -18,7 +18,7 @@ counter_can = 0;
 
    
 
-    if(counter_can==8){
+    if(counter_can==10){
         alert("Игра закончена.Вы набрали "+ counter + " Баллов")
         location.reload();
        }
