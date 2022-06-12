@@ -68,7 +68,7 @@ counter_can = 0;
     let element = document.querySelector(".jar");
     
     
-    new Jump(element).Run(15, 20, 0, -0.5 );
+    new Jump(element).Run(18, 23, 0, -0.5 );
     
 }
 
